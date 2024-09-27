@@ -1,4 +1,8 @@
 i am slow
 welcome home
+<<<<<<< HEAD
 sorrsed force
 looking
+=======
+to the day
+>>>>>>> dev1
